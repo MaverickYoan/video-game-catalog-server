@@ -1,0 +1,27 @@
+{
+    "name": "video-game-catalog",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "description": "Catalogue de jeux vidéo avec Node.js, PostgreSQL et HTML/JS",
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/video-game-catalog.git"},
+    "keywords": [
+        "video-game",
+        "catalog",
+        "nodejs",
+        "postgresql",
+        "html",
+        "js"
+    ]

@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #091407;
+  margin: 0;
+  padding: 20px;
+}
+#jeux-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.jeu {
+  background: rgb(255, 255, 255);
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
